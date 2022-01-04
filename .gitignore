@@ -4,12 +4,13 @@ _gitignored/*
 # office lock files
 .~lock*
 
-# KiCad temporary files
+# KiCad # Temporary files
 *.000
 *.bak
 *.bck
 *.kicad_pcb-bak
 *.kicad_sch-bak
+*-backups
 *.kicad_prl
 *.sch-bak
 *~
@@ -19,15 +20,16 @@ _autosave-*
 *-save.kicad_pcb
 fp-info-cache
 
-# KiCad netlist files (exported from Eeschema)
+# Netlist files (exported from Eeschema)
 *.net
 
-# KiCad autorouter files (exported from Pcbnew)
+# Autorouter files (exported from Pcbnew)
 *.dsn
 *.ses
 
-# KiCad backup files
-*-backups/
+# Exported BOM files
+pcb/*.xml
+pcb/*.csv
 
 # FreeCAD backup files
 *.FCBak
