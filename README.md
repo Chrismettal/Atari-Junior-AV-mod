@@ -13,12 +13,15 @@ If you like my work please consider supporting my caffeine addiction!
 ## Table of contents <!-- omit in toc -->
 
 - [The concept](#the-concept)
-- [The parts](#the-parts)
+- [Ancient version](#ancient-version)
 
 ## The concept
 
 Testo
 
-## The parts
 
-Ultra
+## Ancient version
+
+The initial version was never published open source, but has been added here for legacy documentation purposes. 
+
+It was originally done in EAGLE but imported into KiCad. No fabrication files are provided and the files are not imported perfectly.

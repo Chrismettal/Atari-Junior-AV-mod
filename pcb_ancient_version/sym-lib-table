@@ -1,3 +1,0 @@
-(sym_lib_table
-  (lib (name "AtariJuniorAV-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/AtariJuniorAV-eagle-import.kicad_sym")(options "")(descr ""))
-)
