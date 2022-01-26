@@ -400,8 +400,8 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "atari-junior-av-mod.step",
-      "vrml": ""
+      "step": "renders/atari-junior-av-mod.step",
+      "vrml": "renders/atari-junior-av-mod.wrl"
     },
     "page_layout_descr_file": ""
   },
