@@ -15,6 +15,7 @@ If you like my work please consider supporting my caffeine addiction!
 - [The concept](#the-concept)
 - [Ancient version](#ancient-version)
 - [Sources](#sources)
+- [License](#license)
 
 ## The concept
 
@@ -32,3 +33,7 @@ It was originally done in EAGLE but imported into KiCad. No fabrication files ar
 
 - Differences between PAL and NTSC PCBs by were documented in [AtariAge forums](https://atariage.com/forums/topic/309021-atari-2600-ntsc-simple-diy-composite-mod/).
 - Ancient version was first published and documented in [CircuitBoard forums](https://circuit-board.de/forum/index.php/Thread/22430-Atari-2600-Junior-AV-Mod-mit-neuer-PCB/), referencing an original tutorial [in the same forum](https://circuit-board.de/forum/index.php/Thread/1886-Atari-2600-Junior-Video-Mod-ohne-Zusatzplatine/).
+
+## License
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
