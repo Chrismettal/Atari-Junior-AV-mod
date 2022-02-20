@@ -34,6 +34,7 @@ If you like my work please consider supporting my caffeine addiction!
 - [Making your own](#making-your-own)
 - [Ancient version](#ancient-version)
 - [Sources](#sources)
+- [Used tools](#used-tools)
 - [License](#license)
 
 
@@ -139,6 +140,12 @@ The old version was only compatible to PAL systems, while the new board released
 
 - Differences between PAL and NTSC PCBs by were documented in [AtariAge forums](https://atariage.com/forums/topic/309021-atari-2600-ntsc-simple-diy-composite-mod/).
 - Ancient version was first published and documented in [CircuitBoard forums](https://circuit-board.de/forum/index.php/Thread/22430-Atari-2600-Junior-AV-Mod-mit-neuer-PCB/), referencing an original tutorial [in the same forum](https://circuit-board.de/forum/index.php/Thread/1886-Atari-2600-Junior-Video-Mod-ohne-Zusatzplatine/).
+
+
+## Used tools
+
+- [KiCAD Version 6.0.2](https://www.kicad.org/)
+
 
 ## License
 
