@@ -24,6 +24,7 @@ If you like my work please consider supporting my caffeine addiction!
 
 ## Table of contents <!-- omit in toc -->
 
+- [Compatibility](#compatibility)
 - [Installation](#installation)
   - [Stuff required](#stuff-required)
   - [Opening the console](#opening-the-console)
@@ -36,9 +37,16 @@ If you like my work please consider supporting my caffeine addiction!
 - [License](#license)
 
 
+## Compatibility
+
+This mod is compatible to PAL and NTSC versions, configurable via jumpers.
+
+Please make sure your Junior board mechanically looks like the one shown in the installation guide below. There are some revisions, namely **Rev D boards**, that are mechanically different in the lower left corner where the mod is supposed to be placed, that prevent the PCB from slotting in.
+
+
 ## Installation
 
-This installation guide was done on a **Rev C Junior board**.
+This installation guide was done on a **PAL Rev C Junior board**.
 
 ### Stuff required
 
